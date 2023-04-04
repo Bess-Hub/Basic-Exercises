@@ -38,4 +38,4 @@ else:
 
 initial_question = str(input("To add someting to the list, please input ADD. To remove something from the list, please input REMOVE "))
 
-# NEED HELP WITH MAKING IT LOOP
+# NEED HELP WITH MAKING IT LOOP, I CAN ONLY ADD ONCE, ALTHOUGH I GET THE MENU AGAIN
