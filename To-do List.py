@@ -1,4 +1,6 @@
 # Lets work with lists in this exercise, this example is a simple to do list that already start with basic tasks, more tasks can be added, tasks can be removed.
+# For this exercise I did not use a template or a tutorial, tried to make it myself
+# Result in the end of the code
 To_do = ["Make bed", "Open courtains", "Make coffee"]
 
 # Lets print the list so we know our starting point
@@ -38,4 +40,5 @@ else:
 
 initial_question = str(input("To add someting to the list, please input ADD. To remove something from the list, please input REMOVE "))
 
+# EXERCISE FAILED
 # NEED HELP WITH MAKING IT LOOP, I CAN ONLY ADD ONCE, ALTHOUGH I GET THE MENU AGAIN
