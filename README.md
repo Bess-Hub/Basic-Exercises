@@ -16,6 +16,5 @@ But I had trouble with that one, will revisit later.<br><br>
 ### Reto 1.py
 
 <br>
-Is a simple challenge I took from Elyca's homework - Sorry, girl! -
-It was great at making me think of a solution and, once solved, how could I improve. <br>
+Is a simple challenge I took from Elyca's homework - Sorry, girl! - it was great at making me think of a solution and, once solved, how could I improve. <br>
 It helped determined where are my limitations at the time I ran the exercise.<br><br>
