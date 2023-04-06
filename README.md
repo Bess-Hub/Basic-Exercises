@@ -11,7 +11,7 @@ Is an automatic generator that will answer if a number that the user input is ev
 
 <br>
 Quite straightforward, it is a to-do list that starts with a few items, the user should be able to add or remove items. <br>
-But I had trouble with that one, will revisit later.<br><br>
+But I had trouble with that one, will revisit later. UPDATE: Now it works properly <br><br>
 
 ### Files named Reto __.py
 
