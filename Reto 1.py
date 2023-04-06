@@ -1,5 +1,17 @@
 # Will attempt to perform a homework from Ely that consists in creating a serie of variables of a contact form and then print it
 
+# Reto 1
+## Desde tu cuenta de replit.com crea un nuevo proyecto. En dicho proyecto, dentro del archivo main.py crea variables que representen los siguientes datos de un contacto:
+### Nombre
+### Apellidos
+### Edad
+### Email
+### Teléfono
+### Casado (verdadero o falso)
+### Con Hijos (verdadero o falso)
+### Lista de amigos
+### Una vez hayas creado todas las variables, muéstralas por consola haciendo uso de la función print().
+
 # My assumption is that it consists in creating lists and later printing them
 
 # So lets create a list called Contacts that contain several sub_lists, represented by the "_l"
@@ -62,3 +74,5 @@ for C in Contacts:
    if C != []:
      print(C[1])
 print()
+
+# Success
