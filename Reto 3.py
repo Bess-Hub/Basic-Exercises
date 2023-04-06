@@ -1,5 +1,8 @@
 # Will attempt to perform a homework from Ely that consists in creating a code capable of printing a sequence from 0 to 100 in reverse.
 
+# Reto 3
+# Escribe un programa que sea capaz de mostrar los números del 1 al 100 en orden inverso.
+
 # First create a list that consists of a range, since the last element is not inclusive of we add as it +1
 numbers = [*range (0, 100+1)]
 
@@ -14,4 +17,4 @@ numbers.reverse()
 print('Reversed List: ', numbers)
 print()
 
-# Exercise completed
+# Success
