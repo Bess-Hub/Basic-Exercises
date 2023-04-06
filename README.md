@@ -13,8 +13,8 @@ Is an automatic generator that will answer if a number that the user input is ev
 Quite straightforward, it is a to-do list that starts with a few items, the user should be able to add or remove items. <br>
 But I had trouble with that one, will revisit later.<br><br>
 
-### Reto 1.py
+### Files named Reto __.py
 
 <br>
-Is a simple challenge I took from Elyca's homework - Sorry, girl! - it was great at making me think of a solution and, once solved, how could I improve. <br>
-It helped determined where are my limitations at the time I ran the exercise.<br><br>
+Is a series of challenges I took from Elyca's homework - Sorry, girl! - it was great at making me think of a solution and, once solved, how could I improve. <br>
+It also helped me to identify where are my limitations at the time I ran the exercise, knowing what to study and improve.<br><br>
